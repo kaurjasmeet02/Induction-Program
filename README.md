@@ -1,4 +1,5 @@
 # My Experience @GNDEC
+![image_1](https://raw.githubusercontent.com/kaurjasmeet02/Induction-Program/1b8a4a2b606fc5d5dbb7abadd58621ad6eda042b/Gndec.jpeg)
 _______________________
 
 # Day 1
@@ -33,16 +34,27 @@ ________________________________
 
 # Day 4 
 ## 5th of August
-The fourth day of the induction program began with the **recitation of the Mool Mantar**, creating a peaceful and spiritual atmosphere to start the day on a positive note.
-
+The fourth day of the induction program began with the **recitation of the Mool Mantar**, creating a peaceful and spiritual atmosphere to start the day on a positive note.<br>
 Following this, an enlightening lecture was conducted by **Shaffy Makkar Ma'am** on the topic of **millets and their importance in a healthy lifestyle**.
-
 She introduced students to the various types of millets, explaining their nutritional benefits and how they contribute to maintaining good health. She emphasized that **millets are like natural doctors** because they help in producing **good bacteria in our gut**, which plays a crucial role in improving digestion and boosting immunity.
-
 Shaffy Ma'am also discussed different methods of preparing and cooking millets and provided practical tips on how to incorporate them into daily dietary plans. Her guidance encouraged students to adopt healthier eating habits by choosing natural and traditional foods.
-
 The session was both informative and inspiring, motivating students to take steps towards better health through mindful food choices.
 ___________________________________
 
 # Day 5
 ## 6th of August
+The fifth day of the induction program began with the **recitation of Japji Sahib**, creating a calm and spiritual start to the day.<br>
+The first session was conducted by **Dr. Parminder Singh, who delivered an informative lecture on the role of the Dean – Student Welfare**. He discussed the various support systems and facilities available for students, emphasizing the importance of maintaining a healthy balance between academics and well-being.<br>
+Following this, **Mr. Manpreet Singh** delivered an engaging lecture on **“Fitness for Engineers.”** He stressed the importance of physical fitness in the life of an engineering student and **encouraged everyone to take care of their health** alongside their academic pursuits. His session was highly interactive and enjoyable. To make it more fun and engaging, he even **organized a push-up competition for the boys**, which was met with great enthusiasm and participation from the students.
+The final session of the day was taken by **Brigadier P.S. Cheema Sir**, who gave a powerful and motivational talk on the **National Cadet Corps (NCC)** and the importance of **discipline** in a student’s life. He explained the structure and benefits of joining NCC, inspiring many students to consider becoming a part of it. His session left a lasting impact and was deeply appreciated by everyone.<br>
+Overall, the day was filled with **knowledge, motivation, and energy**, leaving students more aware and inspired to grow in all aspects of life—physically, mentally, and ethically.
+____________________________________________
+# Day 6
+## 7th of August
+The sixth day of the induction program began with the **recitation of the Mool Mantar**, creating a calm and spiritual environment to begin the day with a positive mindset.<br>
+The first session was conducted by **Dr. Lakhvir Singh** on the *Centre of Multi-Faceted Learning. In his powerful and inspiring lecture, he encouraged students to **stay focused on their goals and ambitions. He highlighted the importance of maintaining a **healthy relationship between students and teachers**, emphasizing mutual respect, communication, and understanding.
+Dr. Lakhvir Singh also motivated the students to **explore the outer world beyond academics, stressing that real learning comes from experiences**. His session was filled with **energy, enthusiasm, and motivation**, and students listened with great interest and enthusiasm.<br>
+The next session was delivered by **Dr. Jasvir Singh**, who introduced the students to the **National Service Scheme (NSS)**. His session began with **calming and peaceful Shabads**, which created a reflective and soothing atmosphere.
+He explained the **importance of joining NSS**, especially in terms of **mental, physical, and environmental well-being**. Through a **simple yet meaningful game**, he made students realize how **difficult yet rewarding it is to bring a smile to someone’s face**. His lecture was deeply **insightful, emotional, and educational**, helping students understand the true value of service and social responsibility.<br>
+Overall, Day 6 was filled with **motivation, inspiration, and a deeper sense of social awareness**, leaving the students thoughtful and more connected with their purpose.
+___________________________________
