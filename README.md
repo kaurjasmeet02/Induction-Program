@@ -73,3 +73,17 @@ He spoke about the **importance of NSS** in students’ lives, not only for the 
 Overall, Day 6 was filled with **valuable learning, emotional awareness, and practical guidance**, inspiring students to grow as responsible and well-rounded individuals.
 
 ___________________________________
+
+# Day 6
+## 8th of August
+
+### Visit to Workshops
+On the sixth day of the induction program, students were taken on a **visit to various workshops** to gain practical exposure to engineering tools, machinery, and processes.<br>
+I visited the **Welding Workshop**, where I learned about the basic principles of welding, different types of welding processes and the importance of welding in manufacturing and construction.<br>
+The instructors demonstrated how *two metal pieces are joined by heating them to their melting point and using filler material* to create a strong joint. Safety precautions such as wearing welding helmets, gloves, and protective clothing were also emphasized to prevent injuries from sparks and intense light.<br>
+The visit provided valuable insight into the practical applications of welding in real-world engineering projects and its role in producing durable, high-quality metal structures.
+
+**Conclusion:**
+The welding workshop visit helped me understand the technical and safety aspects of welding, and gave me hands-on exposure to one of the most important skills in the manufacturing industry.
+
+____________________________________________________
